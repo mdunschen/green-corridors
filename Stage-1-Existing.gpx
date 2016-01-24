@@ -1876,4 +1876,20 @@
       <trkpt lat="53.40631" lon="-2.99789" />
     </trkseg>
   </trk>
+  <trk>
+    <name>Untitled</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Green</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="53.38681" lon="-2.9585" />
+      <trkpt lat="53.38896" lon="-2.95489" />
+    </trkseg>
+    <trkseg>
+      <trkpt lat="53.38896" lon="-2.95489" />
+      <trkpt lat="53.38998" lon="-2.95489" />
+    </trkseg>
+  </trk>
 </gpx>
