@@ -2,6 +2,8 @@
 
 Map data for the green corridors proposed as part of the [Liverpool green spaces review](http://liverpool.gov.uk/mayor/mayoral-commissions/strategic-green-and-open-spaces-review-board/).
 
+Although this repository holds the raw data, it can also be [viewed overlaid on a map here](http://umap.openstreetmap.fr/en/map/liverpool-green-corridors_68112#12/53.4026/-2.9491).
+
 ## Files
 
  * [Stage-1-Existing.gpx](Stage-1-Existing.gpx) - Already existing green corridors included in the Stage 1 proposal.
